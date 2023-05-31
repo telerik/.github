@@ -14,6 +14,7 @@ configuration:
          codeLines: 16
       bypassOrgs:
          - bloomberg
+         - Progress Software Corporation
       bypassUsers:
          - acomghbot
          - acomghbot
