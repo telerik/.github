@@ -14,7 +14,7 @@ configuration:
          codeLines: 16
       bypassOrgs:
          - bloomberg
-         - Progress Software Corporation
+         - telerik
       bypassUsers:
          - acomghbot
          - acomghbot
